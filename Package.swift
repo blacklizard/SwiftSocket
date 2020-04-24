@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .target(
             name: "SwiftSocket",
-            dependencies: []
+            dependencies: [],
             path: "Sources"),
     ]
 )
